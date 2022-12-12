@@ -900,13 +900,14 @@ body {
 }
 
 .margin-4k {
-    max-width: 1268px;
+    max-width: 2000px;
     width: 100%;
 }
 
-/* @media only screen and (min-width: 1800px) {
+
+@media (min-width:2000px) {
     .margin-4k {
-        margin-left: 256px;
-        margin-right: 256px;
+        max-width: 1400px;
+        width: 100%;
     }
-} */
+}
