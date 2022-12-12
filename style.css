@@ -705,6 +705,8 @@ body {
 }
 
 
+
+
 @media only screen and (min-width: 1024px) {
     .stuff-portfolio {
         display: flex;
@@ -888,5 +890,21 @@ body {
         /* justify-items: center; */
         gap: 64px;
         flex: 1 1 0px;
+    }
+}
+
+
+
+@media only screen and (min-width: 2400px) {
+    .margin-4k {
+        margin-left: 512px;
+        margin-right: 512px;
+    }
+}
+
+@media only screen and (min-width: 1800px) {
+    .margin-4k {
+        margin-left: 256px;
+        margin-right: 256px;
     }
 }
