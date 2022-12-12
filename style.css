@@ -894,12 +894,14 @@ body {
 }
 
 
+.margin-4k-wrapper {
+    display: flex;
+    place-content: center;
+}
 
-@media only screen and (min-width: 2200px) {
-    .margin-4k {
-        margin-left: 512px;
-        margin-right: 512px;
-    }
+.margin-4k {
+    max-width: 1268px;
+    width: 100%;
 }
 
 /* @media only screen and (min-width: 1800px) {
