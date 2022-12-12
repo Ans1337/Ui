@@ -895,16 +895,16 @@ body {
 
 
 
-@media only screen and (min-width: 2400px) {
+@media only screen and (min-width: 2200px) {
     .margin-4k {
         margin-left: 512px;
         margin-right: 512px;
     }
 }
 
-@media only screen and (min-width: 1800px) {
+/* @media only screen and (min-width: 1800px) {
     .margin-4k {
         margin-left: 256px;
         margin-right: 256px;
     }
-}
+} */
