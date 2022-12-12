@@ -1,22 +1,21 @@
-# Ui
+# Ui Task
 
 # Live Website Link
+
 https://incomparable-marshmallow-afd8e1.netlify.app/
 
 # Issues
 
-.header-image -> Overalapping text on the left
-(Tried z-index but is not working)
-
-![alt text](https://github.com/Ans1337/Ui/blob/main/assets/issueheader.png?raw=true)
+~~.header-image -> Overalapping text on the left~~ **Fixed**
 
 
-
-.feature-main -> Image not becoming responsive
-
-![alt text](https://github.com/Ans1337/Ui/blob/main/assets/issuefeature.png?raw=true)
+~~.feature-main -> Image not becoming responsive~~ **Fixed**
 
 
+class -> .feature -> in 4k dimensions to maintain aspect ratio other items become too small
+
+
+![alt text](https://github.com/Ans1337/Ui/blob/main/assets/issuefeature4k?raw=true)
 
 # Desktop Design
 
